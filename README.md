@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/achsuthanmahendran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="achsuthanmahendran" height="30" width="40" /></a>
-<a href="https://fb.com/achsuthanm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="achsuthanm" height="30" width="40" /></a>
-<a href="https://instagram.com/__interrupt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__interrupt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/achsuthanmahendran" target="blank"><img align="center" src="https://www.iconfinder.com/icons/5296501/linkedin_network_linkedin_logo_icon" alt="achsuthanmahendran" height="30" width="40" /></a>
+<a href="https://fb.com/achsuthanm" target="blank"><img align="center" src="https://www.iconfinder.com/icons/5296499/fb_facebook_facebook_logo_icon" alt="achsuthanm" height="30" width="40" /></a>
+<a href="https://instagram.com/__interrupt" target="blank"><img align="center" src="https://www.iconfinder.com/icons/5296765/camera_instagram_instagram_logo_icon" alt="__interrupt" height="30" width="40" /></a>
 <a href="https://medium.com/@achsuthan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@achsuthan" height="30" width="40" /></a>
 </p>
 
