@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Vue, Swift**
 
-- 📫 How to reach me **achsuthanm@gmail.com**
+- 📫 How to reach me **achsuthan.m@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
